@@ -1,0 +1,21 @@
+.email-cv {
+  font-weight: bold;
+  display: flex;
+  margin-left: 1.5rem;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+  cursor: pointer;
+}
+
+.email-cv img {
+  margin-right: 1rem;
+  width: 3rem;
+}
+
+.email-cv p {
+  color: white;
+}
+
+.text-hover p {
+  color: #48cae4;
+}

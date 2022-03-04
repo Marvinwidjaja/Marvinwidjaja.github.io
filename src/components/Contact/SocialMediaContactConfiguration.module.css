@@ -1,0 +1,36 @@
+.link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 13rem;
+  text-decoration: none;
+  color: white;
+  margin-left: 1.5rem;
+}
+
+.link h3 {
+  margin-bottom: 0;
+}
+
+.link p {
+  font-weight: bold;
+  margin-top: 0.5rem;
+}
+
+.contacts-image {
+  width: 4rem;
+  display: flex;
+  justify-content: center;
+}
+
+.contacts-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 15rem;
+  padding-left: 1rem;
+}
+
+.text-hover p {
+  color: #48cae4;
+}

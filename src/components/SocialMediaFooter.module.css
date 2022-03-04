@@ -1,0 +1,42 @@
+.footer-title::after {
+  content: " | ";
+}
+
+.content-left {
+  display: flex;
+  margin-left: 1.5rem;
+}
+
+.social-media {
+  display: flex;
+  justify-content: space-around;
+  align-items: left;
+  width: 11rem;
+}
+
+.footer-title::after {
+  content: " | ";
+}
+
+.content-left {
+  display: flex;
+  margin-left: 1.5rem;
+}
+
+.social-media {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 2.5rem;
+}
+
+.github img {
+  width: 2rem;
+  border-radius: 10px;
+  transition: transform 0.5s;
+}
+
+.github img:hover {
+  transform: translateY(-0.4rem);
+}
+

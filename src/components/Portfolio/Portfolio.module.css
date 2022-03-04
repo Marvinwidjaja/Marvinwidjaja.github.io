@@ -1,0 +1,22 @@
+.about-title {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #00b4d8;
+    text-indent: 50px;
+  }
+  
+  .about-parag {
+    font-size: 1.2rem;
+    line-height: 2rem;
+    text-indent: 100px;
+  }
+  .about-project-title{
+    display: inline-block;
+    font-size: 1.5rem;
+    font-weight: 900;
+    margin-bottom: 1rem;
+    color: #4ca2f3b0;
+    text-indent: 100px;
+  } 

@@ -1,0 +1,46 @@
+.form-sent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-sent img {
+  width: 70%;
+}
+
+.form-sent h3 {
+  margin-top: 0;
+  font-size: 1.5rem;
+  padding: 0 1rem;
+}
+
+.form-sent-btn {
+  padding: 0 1rem;
+}
+
+.form-sent-btn button {
+  margin-top: 0;
+  font-size: 1.2rem;
+}
+
+@media (max-width: 768px) {
+  .form-sent img {
+    width: 60%;
+  }
+  .form-sent h3 {
+    font-size: 1.3rem;
+  }
+  .form-sent-btn button {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 500px) {
+  .form-sent h3 {
+    font-size: 1rem;
+  }
+  .form-sent-btn button {
+    font-size: 0.8rem;
+  }
+}

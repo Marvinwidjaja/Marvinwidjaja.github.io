@@ -1,0 +1,76 @@
+.right-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin-top: 1rem;
+}
+
+.right-content input,
+.right-content button {
+  display: block;
+}
+
+.form-title {
+  font-size: 1.4rem;
+}
+
+.form-title::before {
+  content: "——— ";
+}
+
+.right-content input,
+.right-content textarea {
+  font-family: "Comfortaa", cursive;
+  font-size: 1rem;
+  padding: 1rem 0 1rem 1rem;
+  margin-bottom: 1rem;
+  width: 100%;
+  border: none;
+  outline: none;
+  box-shadow: 0 8px 12px rgb(79 61 254 / 10%);
+  border-radius: 10px;
+  resize: none;
+}
+
+.right-content input:focus,
+.right-content textarea:focus {
+  border: 3px solid rgb(72, 202, 228);
+}
+
+.contact-button {
+  width: 106.25%;
+  margin-top: 0;
+}
+
+.hide {
+  display: none;
+}
+
+@media (max-width: 1030px) {
+  .right-content {
+    width: 90%;
+  }
+  .right-content input,
+  .right-content textarea {
+    display: inline-block;
+    width: 93.75%;
+  }
+  .contact-button {
+    width: 40%;
+  }
+}
+
+@media (max-width: 500px) {
+  .form-title {
+    font-size: 1rem;
+  }
+  .right-content input,
+  .right-content textarea {
+    font-size: 0.8rem;
+  }
+  .contact-button {
+    font-size: 0.8rem;
+    width: 55%;
+  }
+}

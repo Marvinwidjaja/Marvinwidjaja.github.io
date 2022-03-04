@@ -1,0 +1,14 @@
+.carousels-section {
+  background-color: #03045e;
+  padding-top: 1rem;
+}
+
+.carousels-section h3 {
+  margin: 0;
+  padding: 1.5rem 1rem 0 1rem;
+  font-size: 1.5rem;
+  text-align: center;
+  letter-spacing: 2px;
+  color: white;
+  border-top: 3px solid #00b4d8;
+}

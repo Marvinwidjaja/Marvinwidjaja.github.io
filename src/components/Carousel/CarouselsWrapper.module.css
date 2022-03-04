@@ -1,0 +1,17 @@
+.carousels-wrapper {
+  display: flex;
+  padding: 2rem 2rem;
+}
+
+@media (max-width: 1012px) {
+  .carousels-wrapper {
+    flex-direction: column;
+    padding-bottom: 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .carousels-wrapper {
+    padding: 2rem 1rem 0 1rem;
+  }
+}

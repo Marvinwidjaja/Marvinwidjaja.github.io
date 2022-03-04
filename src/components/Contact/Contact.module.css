@@ -1,0 +1,32 @@
+.animation {
+  animation: contact-appear 1s ease-out forwards;
+}
+
+.contact {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: rgba(184, 192, 255, 25%);
+  color: #03045e;
+  border-radius: 10px;
+  padding-bottom: 3rem;
+  margin: 3.5rem 2rem 6rem 2rem;
+}
+
+@media (max-width: 1030px) {
+  .contact {
+    flex-direction: column;
+  }
+}
+
+@keyframes contact-appear {
+  from {
+    opacity: 0;
+    transform: translateY(2rem);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
