@@ -15,6 +15,7 @@ const App = () => {
 
   return (
     <Router>
+    <Switch>
       <Header
         homePage={homePage}
         aboutPage={aboutPage}
@@ -28,6 +29,7 @@ const App = () => {
         <Route path="/contact" element={<Contact />} />
       </Routes>
       <Footer />
+    </Switch>
     </Router>
   );
 };
