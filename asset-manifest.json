@@ -1,28 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.36c0ac09.css",
-    "main.js": "/static/js/main.c6a2fa46.js",
-    "static/media/ezgif-4-a4aa8ae8b9.gif": "/static/media/ezgif-4-a4aa8ae8b9.191a12bd3c8148a74573.gif",
-    "static/media/ezgif-4-0f5cd2c53a.gif": "/static/media/ezgif-4-0f5cd2c53a.bd9aeab66b5196b671b4.gif",
+    "main.css": "/static/css/main.45e68e6d.css",
+    "main.js": "/static/js/main.a5abe079.js",
     "static/media/languages.jpg": "/static/media/languages.f396f62b4172ce1fdead.jpg",
+    "static/media/cv-document.pdf": "/static/media/cv-document.1375221b237b8485b93b.pdf",
     "static/media/teamwork.jpg": "/static/media/teamwork.f078a26d90993061f69b.jpg",
     "static/media/backend.jpg": "/static/media/backend.3404cd27ddc65244fe67.jpg",
     "static/media/problem-solving.jpg": "/static/media/problem-solving.c6687d2279976ff5c724.jpg",
     "static/media/pic.jpg": "/static/media/pic.7687957ff6df05ace2ca.jpg",
     "static/media/frontend.jpg": "/static/media/frontend.478edb017b8d95be49a0.jpg",
-    "static/media/pinpng.com-github-logo-png-945585.png": "/static/media/pinpng.com-github-logo-png-945585.287a43212fbe4197d53b.png",
-    "static/media/cv-document.pdf": "/static/media/cv-document.bdb896ddfac22417cec5.pdf",
     "static/media/results-orientation.jpg": "/static/media/results-orientation.575603fda6d4f4f035b7.jpg",
     "static/media/time-management.webp": "/static/media/time-management.8e6e9bc7e1f1c8cb6ec4.webp",
     "static/media/home.png": "/static/media/home.8f0807bf17dbf65dc2cc.png",
-    "static/media/error-page-icon.png": "/static/media/error-page-icon.25ed5cbd8a89270dc81e.png",
     "static/media/form-sent.png": "/static/media/form-sent.11f37e2151da35db7a09.png",
     "index.html": "/index.html",
-    "main.36c0ac09.css.map": "/static/css/main.36c0ac09.css.map",
-    "main.c6a2fa46.js.map": "/static/js/main.c6a2fa46.js.map"
+    "main.45e68e6d.css.map": "/static/css/main.45e68e6d.css.map",
+    "main.a5abe079.js.map": "/static/js/main.a5abe079.js.map"
   },
   "entrypoints": [
-    "static/css/main.36c0ac09.css",
-    "static/js/main.c6a2fa46.js"
+    "static/css/main.45e68e6d.css",
+    "static/js/main.a5abe079.js"
   ]
 }
