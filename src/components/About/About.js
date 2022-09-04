@@ -55,7 +55,7 @@ const About = () => {
             className={classes["about-location"]}
           >
             <img src={isLocationHovered} alt="Location" />
-            <span>Moscow, Russia</span>
+            <span>Jakarta, Indonesia</span>
           </div>
         </div>
         <div className={classes["about-right-content"]}>
