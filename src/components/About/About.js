@@ -33,8 +33,8 @@ const About = () => {
           <h1 className={classes["about-title"]}>About me</h1>
           <div className={classes["about-description"]}>
             <p className={classes["about-parag"]}>
-              I am Marvin Widjaja, currently a 4th year
-              Computer Science student at{" "}
+              I am Marvin Widjaja, currently a fresh graduate
+              Computer Science student from{" "}
               <a href="https://mipt.ru/" target="_blank" rel="noreferrer">
                 MIPT
               </a>
@@ -46,7 +46,7 @@ const About = () => {
             </p>
             <br></br>
             <p className={classes["about-parag"]}>
-              In my free-time, you would find me enjoying immersive games , playing the piano or just developing various machine learning projects.
+              In my free-time, you would find me enjoying immersive games , playing the piano or just exploring new tech stacks.
             </p>
           </div>
           <div
